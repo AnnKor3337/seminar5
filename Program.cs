@@ -1,4 +1,4 @@
-﻿/* Решение задачи №29
+﻿/* Решение задачи №34
 
 int[] Array (int size, int minRan, int maxRan)
 {
